@@ -1,4 +1,4 @@
-for i in range(1, 100):
+for i in range(1, 100000):
     dels = 0
     for j in range(1, i+1):
         ost = i % j
